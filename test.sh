@@ -1,4 +1,4 @@
-skdir -p -/setup-display && cd -/setup-display
+mkdir -p -/setup-display && cd -/setup-display
 cat > docker-compose.yml <<EOF
 services:
   display:
