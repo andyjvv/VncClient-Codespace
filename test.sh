@@ -17,5 +17,5 @@ services:
       command: -a :5800 -h display --no-url-password
       ports:
 	- 127.0.0.1:%800-5800
-  EDF
-  docker-compose up -d
+  E0F
+  docker compose up -d
