@@ -18,4 +18,4 @@ services:
       ports:
 	- 127.0.0.1:%800-5800
   EDF
-  docker compose up -d
+  docker-compose up -d
